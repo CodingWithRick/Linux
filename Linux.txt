@@ -1,0 +1,30 @@
+mv
+cp
+clear
+pwd
+touch
+mkdir
+cd
+cd ..
+ls/ls -t/ls -r
+sudo apt-get update
+sudo
+apt
+sudo apt upgrade
+ls -R
+ls -a
+touch .filename
+ls -lart
+echo
+printf ""
+printf "\n"
+sudo apt install package
+ls -l
+chmod 734 filename(CHMOD on Google)
+top
+ps
+ps -a
+ps -A
+ps -ef
+kill
+vim filename 
